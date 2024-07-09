@@ -30,6 +30,14 @@ Navigate to the project directory and run the game:
 ```bash
 python main.py
 ```
+## ScreenShots
+
+<div align="center">
+<img src="ScreenShot1.png">
+<img src= "ScreenShots2.png">
+Simple Snake Game
+</div>
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/)  file for details.
 
