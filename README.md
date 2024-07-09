@@ -32,10 +32,9 @@ python main.py
 ```
 ## ScreenShots
 
-<div align="center">
-<img src="ScreenShot1.png">
-<img src= "ScreenShots2.png">
-Simple Snake Game
+<div>
+    <img src="Screenshot1.png" alt="Image 1" width="45%" style="display: inline-block;">
+    <img src="Screenshot2.png" alt="Image 2" width="45%" style="display: inline-block;">
 </div>
 
 ## License
